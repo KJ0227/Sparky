@@ -1,6 +1,6 @@
 # Sparky
 <html>
   <style>
-    body {background:green;}
+    body {background:green; }
   </style>
 </html>
