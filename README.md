@@ -23,7 +23,9 @@
     <b>8:30am</b>🕣 - Eat breakfast
   </li>
   <li>
-    <b>9:00am</b>🕘 - Say bye to Mom. With the whole house to myself, I take multiple naps, chase and eat a bunch of flies, and bark at anyone that tries to come near my house.
+    <b>9:00am</b>🕘 - Say bye to Mom. 
+    <li>
+      <b>9:30</b>🕤 - Since I'm alone, I take multiple naps, chase and eat a bunch of flies, and bark at anyone that tries to come near my house.
   </li>
   <li>
     <b>3:30</b>🕞 - Krish is back! I usually get zoomies around this time. 
