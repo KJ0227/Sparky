@@ -14,15 +14,24 @@
       Sparky loves to play everyday, but he also sleeps just as much. A day in the life of Sparky would look something like this:
     </P>
     <li>
-      <b>6:30</b>🕡 - Wake up with Krish to get ready for school
+      <b>6:30am</b>🕡 - Wake up with Krish to get ready for school. Then go back to sleep
     </li>
       <li>
-      <b>7:30</b>🕢 - Say bye to Krish and Dad
+      <b>7:30am</b>🕢 - Say bye to Krish and Dad
     </li>
   <li>
-    <b>8:30</b>🕣 - Eat breakfast
+    <b>8:30am</b>🕣 - Eat breakfast
   </li>
   <li>
-    <b>9:00</b>🕘 - Say bye to Mom
+    <b>9:00am</b>🕘 - Say bye to Mom. With the whole house to myself, I take multiple naps, chase and eat a bunch of flies, and bark at anyone that tries to come near my house.
+  </li>
+  <li>
+    <b>3:30</b>🕞 - Krish is back! I usually get zoomies around this time. 
+  </li>
+  <li>
+      <b>5:30</b>🕠 - Mom and Dad are back! Zoomies again!
+  </li>
+  <li>
+    <b>6:00</b>🕕 - Time to go for a walk!
   </li>
 </html>
