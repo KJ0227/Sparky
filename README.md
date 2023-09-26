@@ -7,4 +7,7 @@
   </p>
   <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
+  <h2>
+    Sparky's Daily Life
+  </h2>
 </html>
