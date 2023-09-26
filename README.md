@@ -13,6 +13,7 @@
     </P>
     <li>
       <b>6:30</b>🕡 - Wake up with Krish to get ready for school
+      <br>
       <b>7:30🕢</b>
     </li>
   </h1>
