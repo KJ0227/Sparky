@@ -7,5 +7,4 @@
   </p>
   <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
-  <a href="https://www.wikihow.com/Add-a-Hyperlink-with-HTML">WikiHow HTML stuff</a>
 </html>
