@@ -12,7 +12,8 @@
       Sparky loves to play everyday, but he also sleeps just as much. A day in the life of Sparky would look something like this:
     </P>
     <li>
-      <b>6:30🕡</b>
+      <b>6:30</b>🕡 - Wake up with Krish to get ready for school
+      <b>7:30🕢</b>
     </li>
   </h1>
   <img>
