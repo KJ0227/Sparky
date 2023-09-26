@@ -39,9 +39,9 @@
     <b>6:00pm</b>🕕 - Time to go for a walk!
   </li>
   <li>
-    <b>7:30</b>🕢 - Time for dinner.
+    <b>7:30pm</b>🕢 - Dinner time.
   </li>
   <li>
-    <b>10:00</b>🕙 - 💤
+    <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
 </html>
