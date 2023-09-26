@@ -13,11 +13,17 @@
     </P>
     <li>
       <b>6:30</b>🕡 - Wake up with Krish to get ready for school
+    </li>
       <br>
       <li>
-      <b>7:30🕢</b>
-      </li>
+      <b>7:30</b>🕢 - Say bye to Krish and Dad
     </li>
+  <li>
+    <b>8:30</b>🕣 - Eat breakfast
+  </li>
+  <li>
+    <b>9:00</b>🕘 - Say bye to Mom
+  </li>
   </h1>
   <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
