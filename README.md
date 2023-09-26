@@ -14,7 +14,6 @@
     <li>
       <b>6:30</b>🕡 - Wake up with Krish to get ready for school
     </li>
-      <br>
       <li>
       <b>7:30</b>🕢 - Say bye to Krish and Dad
     </li>
