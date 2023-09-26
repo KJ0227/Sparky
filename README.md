@@ -7,6 +7,7 @@
   </p>
   <h1>
     Sparky's Daily Life
+  </h1>
     <P>
       Sparky loves to play everyday, but he also sleeps just as much. A day in the life of Sparky would look something like this:
     </P>
