@@ -25,15 +25,15 @@
   <li>
     <b>9:00am</b>🕘 - Say bye to Mom. 
     <li>
-      <b>9:30</b>🕤 - Since I'm alone, I take multiple naps, chase and eat a bunch of flies, and bark at anyone that tries to come near my house.
+      <b>9:30am</b>🕤 - Since I'm alone, I take multiple naps, chase and eat a bunch of flies, and bark at anyone that tries to come near my house.
   </li>
   <li>
-    <b>3:30</b>🕞 - Krish is back! I usually get zoomies around this time. 
+    <b>3:30pm</b>🕞 - Krish is back! I usually get zoomies around this time. 
   </li>
   <li>
-      <b>5:30</b>🕠 - Mom and Dad are back! Zoomies again!
+      <b>5:30pm</b>🕠 - Mom and Dad are back! Zoomies again!
   </li>
   <li>
-    <b>6:00</b>🕕 - Time to go for a walk!
+    <b>6:00pm</b>🕕 - Time to go for a walk!
   </li>
 </html>
