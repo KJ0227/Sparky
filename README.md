@@ -7,7 +7,4 @@
   </p>
   <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
-  <p>
-    This is a test. I just want to see something rlly quick
-  </p>
 </html>
