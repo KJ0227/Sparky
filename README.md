@@ -52,5 +52,10 @@
   <div class="column">
     <img src="img_forest.jpg" alt="Forest" style="width:100%">
   </div>
+    .column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/RN2VXyc/IMG-8230.jpg" alt="IMG_8230" border="0"></a>
 </html>
