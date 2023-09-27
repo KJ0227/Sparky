@@ -44,10 +44,10 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
-  <br>
-  <a href="https://imgbb.com/"><img src="https://i.ibb.co/RN2VXyc/IMG-8230.jpg" alt="IMG_8230" border="0"></a>
-<br>
-    <title> Guessing if Sparky has chewed that </title>
+ <!DOCTYPE html>
+<html>
+<head>
+    <title>Guessing if Sparky has chewed that</title>
     <style>
         body {
             text-align: center;
