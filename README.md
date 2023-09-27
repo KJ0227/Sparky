@@ -44,4 +44,8 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
+  <div class="wrap">
+    <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
+</div>
+
 </html>
