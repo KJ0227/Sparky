@@ -3,7 +3,7 @@
     Introduction: Meet Sparky
   </h1>
   <p>
-    Sparky is a <a href="https://www.akc.org/dog-breeds/american-staffordshire-terrier/">American Staffordshire Terrier.</a> He was born on March 5, 2023. I adopted him on May 15, 2023. He was originally named Zenith before we renamed him. Ever since that day, he has become the center of my attention. He is full of energy and always wants to play. He has beige and white fur. He used to have bright blue eyes (which are now light green) when he was a baby, which gave him his name. He is a very aggressive chewer, and destroys any soft toy with ease. 
+    Sparky is a <a href="https://www.akc.org/dog-breeds/american-staffordshire-terrier/">American Staffordshire Terrier.</a> He was born on March 5, 2023. I adopted him on May 15, 2023. He was originally named Zenith before we renamed him. Ever since that day, he has become the center of my attention. He is full of energy and always wants to play. He has beige and white fur. He used to have bright blue eyes (which are now light green) when he was a baby, which gave him his name. He is a very aggressive chewer, and destroys any soft toy with ease. Sparky knows a lot of commands and tricks. He knows how to sit, lay down, give both paws, spin, and stay in place.
   </p>
    <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
@@ -44,23 +44,4 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
-  # Dog Paw Cursor
-
-![Dog Paw Cursor](dog-paw-cursor.png)
-
-Add a fun and playful dog paw cursor to your website using CSS.
-
-## Usage
-
-1. **Upload Cursor Image**: First, create or find a dog paw cursor image (e.g., `dog-paw-cursor.png`) with a transparent background. Upload it to your project.
-
-2. **Include CSS**: Add the following CSS code to your project's stylesheet (e.g., `styles.css`):
-
-```css
-/* Define a CSS class for the custom cursor */
-.custom-cursor {
-    cursor: url('path-to-dog-paw-cursor.png'), auto;
-    /* Replace 'path-to-dog-paw-cursor.png' with the actual URL or relative path to your dog paw cursor image */
-}
-
 </html>
