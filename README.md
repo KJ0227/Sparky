@@ -8,7 +8,7 @@
    <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Hrh93QT/Sparky2.jpg" alt="Sparky2" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/nwYQd5K/Sparky3.jpg" alt="Sparky3" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/mT8W9rM/360-F-87648445-j-F98-Hdpa-BAcxwdy-XIp-BF7w8-I5-QLUfw-RE.jpg" alt="360_F_87648445_jF98HdpaBAcxwdyXIpBF7w8I5QLUfwRE" border="0"></a>
    </div>
   <h1>
     Sparky's Daily Life
