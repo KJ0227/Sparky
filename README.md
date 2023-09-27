@@ -47,5 +47,10 @@
   <div class="wrap">
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
 </div>
-
+<style>
+ .wrap {
+   float: right; 
+   margin: 5px;
+  }
+</style>
 </html>
