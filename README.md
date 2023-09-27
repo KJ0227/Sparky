@@ -9,6 +9,7 @@
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Hrh93QT/Sparky2.jpg" alt="Sparky2" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/nwYQd5K/Sparky3.jpg" alt="Sparky3" border="0"></a>
+   </div>
   <h1>
     Sparky's Daily Life
   </h1>
