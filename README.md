@@ -46,8 +46,8 @@
   </li>
   <br>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/RN2VXyc/IMG-8230.jpg" alt="IMG_8230" border="0"></a>
-<head>
-    <title>Guessing if Sparky has chewed that</title>
+<br>
+    <title> Guessing if Sparky has chewed that </title>
     <style>
         body {
             text-align: center;
