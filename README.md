@@ -52,13 +52,13 @@
   </p>
  <div align="center">
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://images.pond5.com/close-golden-retriever-front-white-photo-060678310_iconl_nowm.jpeg" alt="Golden Retriever" width="300" height="200">
+    <img src="https://images.pond5.com/close-golden-retriever-front-white-photo-060678310_iconl_nowm.jpeg" alt="Golden Retriever" width="300" height="300">
   </a>
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.freepik.com/premium-photo/fluffy-german-shepherd-dog-isolated-white-background-puppy-is-beautiful-funny-attentive-portrait-close-up-sits-looks-closely-good-plush_438009-2722.jpg" alt="German Shepherd" width="300" height="200">
+    <img src="https://img.freepik.com/premium-photo/fluffy-german-shepherd-dog-isolated-white-background-puppy-is-beautiful-funny-attentive-portrait-close-up-sits-looks-closely-good-plush_438009-2722.jpg" alt="German Shepherd" width="300" height="300">
   </a>
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image" width="300" height="200">
+    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image" width="300" height="300">
   </a>
 </div>
 </html>
