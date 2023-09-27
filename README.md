@@ -3,7 +3,7 @@
     Introduction: Meet Sparky
   </h1>
   <p>
-    Sparky is a <a href="https://www.akc.org/dog-breeds/american-staffordshire-terrier/">American Staffordshire Terrier.</a> He was born on March 5, 2023. I adopted him on May 15, 2023. He was originally named Zenith before we renamed him. Ever since that day, he has become the center of my attention. He is full of energy and always wants to play. He has beige and white fur. He used to have bright blue eyes (which are now light green) when he was a baby, which gave him his name. He is a very aggressive chewer, and destroys any soft toy with ease. Sparky knows a lot of commands and tricks. He knows how to sit, lay down, give both paws, spin, and stay in place.
+    Sparky is a <a href="https://www.akc.org/dog-breeds/american-staffordshire-terrier/">American Staffordshire Terrier.</a> He was born on March 5, 2023. His mom was rescued from Tijuana, Mexico. I adopted him on May 15, 2023. He was originally named Zenith before we renamed him. Ever since that day, he has become the center of my attention. He is full of energy and always wants to play. He has beige and white fur. He used to have bright blue eyes (which are now light green) when he was a baby, which gave him his name. He is a very aggressive chewer, and destroys any soft toy with ease. Sparky knows a lot of commands and tricks. He knows how to sit, lay down, give both paws, spin, and stay in place.
   </p>
    <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
@@ -44,9 +44,21 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
-  <div align="right" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;">
+ <h1>
+   Sparky Needs Help!
+ </h1>
+  <p>
+    Sparky was luckily adopted when he was only a puppy. There are thousands of dogs that have been in shelters for years and need a caring family. If you want a perfect dog just like Sparky, click one of the pictures below to find your next family member!
+  </p>
+  <div align="center">
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.freepnglogos.com/uploads/dog-png/bow-wow-gourmet-dog-treats-are-healthy-natural-low-4.png" alt="Visit Petfinder">
+    <img src="https://media.istockphoto.com/id/513133900/photo/golden-retriever-sitting-in-front-of-a-white-background.webp?b=1&s=170667a&w=300&h=200&k=20&c=ENgM9IIlC7-7xH_4WHBWoQNeoO0u2TUnlhYsqka694c=" alt="Golden Retriever">
   </a>
-  </div>
+  <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://media.istockphoto.com/id/1217797994/photo/puppy-german-shepherd-sitting-9-weeks-old-isolated-on-white.jpg?s=300&h=200&w=400&k=20&c=Ts-tBOXfKcL-LWN9D5G6kEXuTs3jh0QmZN34Y4z5Qm8=" alt="German Shepherd">
+  </a>
+  <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image">
+  </a>
+</div>
 </html>
