@@ -50,10 +50,10 @@
   </div>
     <div>
     <a href="https://imgbb.com/"><img src="https://i.ibb.co/RN2VXyc/IMG-8230.jpg" alt="IMG_8230" border="0"></a>
-    </div>
-    .column {
+      .column {
   float: right;
   width: 33.33%;
   padding: 5px;
-}
+      }
+    </div>
 </html>
