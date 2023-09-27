@@ -7,6 +7,7 @@
   </p>
    <img>
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
+  🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾🐾
   <h1>
     Sparky's Daily Life
   </h1>
@@ -44,13 +45,4 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
-<p align="center">
-  🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾<br>
-  🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾&nbsp;&nbsp;🎾&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🎾
-</p>
 </html>
