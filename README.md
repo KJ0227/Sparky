@@ -44,4 +44,11 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
+       / \__
+    (    @\___
+    /         O
+   /   (_____/
+  /_____/   U
+  
+  Goodbye! 🐾
 </html>
