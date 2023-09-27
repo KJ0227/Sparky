@@ -46,7 +46,7 @@
   </li>
   <div align="right" style="position: fixed; bottom: 20px; right: 20px; z-index: 9999;">
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="(https://www.freepnglogos.com/uploads/dog-png/bow-wow-gourmet-dog-treats-are-healthy-natural-low-4.png)https://www.freepnglogos.com/uploads/dog-png/bow-wow-gourmet-dog-treats-are-healthy-natural-low-4.png" alt="Visit Petfinder">
+    <img src="[https://www.freepnglogos.com/uploads/dog-png/bow-wow-gourmet-dog-treats-are-healthy-natural-low-4.png]" alt="Visit Petfinder">
   </a>
 </div>
 
