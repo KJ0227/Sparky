@@ -50,15 +50,15 @@
   <p>
     Sparky was luckily adopted when he was only a puppy. There are thousands of dogs that have been in shelters for years and need a caring family. If you want a perfect dog just like Sparky, click one of the pictures below to find your next family member!
   </p>
-  <div align="center">
+ <div align="center">
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.istockphoto.com/id/513133900/photo/golden-retriever-sitting-in-front-of-a-white-background.webp?b=1&s=170667a&w=300&h=200&k=20&c=ENgM9IIlC7-7xH_4WHBWoQNeoO0u2TUnlhYsqka694c=" alt="Golden Retriever">
+    <img src="https://images.pond5.com/close-golden-retriever-front-white-photo-060678310_iconl_nowm.jpeg" alt="Golden Retriever" width="300" height="200">
   </a>
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://media.istockphoto.com/id/1217797994/photo/puppy-german-shepherd-sitting-9-weeks-old-isolated-on-white.jpg?s=300&h=200&w=400&k=20&c=Ts-tBOXfKcL-LWN9D5G6kEXuTs3jh0QmZN34Y4z5Qm8=" alt="German Shepherd">
+    <img src="https://img.freepik.com/premium-photo/fluffy-german-shepherd-dog-isolated-white-background-puppy-is-beautiful-funny-attentive-portrait-close-up-sits-looks-closely-good-plush_438009-2722.jpg" alt="German Shepherd" width="300" height="200">
   </a>
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image">
+    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image" width="300" height="200">
   </a>
 </div>
 </html>
