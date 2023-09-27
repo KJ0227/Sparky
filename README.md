@@ -8,7 +8,7 @@
    <div align="center">
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/cCn7w2c/Sparky.jpg" alt="Sparky" border="0"></a>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/Hrh93QT/Sparky2.jpg" alt="Sparky2" border="0"></a>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/mT8W9rM/360-F-87648445-j-F98-Hdpa-BAcxwdy-XIp-BF7w8-I5-QLUfw-RE.jpg" alt="360_F_87648445_jF98HdpaBAcxwdyXIpBF7w8I5QLUfwRE" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/nwYQd5K/Sparky3.jpg" alt="Sparky3" border="0"></a>
    </div>
   <h1>
     Sparky's Daily Life
@@ -63,7 +63,7 @@
     <img src="https://img.freepik.com/premium-photo/fluffy-german-shepherd-dog-isolated-white-background-puppy-is-beautiful-funny-attentive-portrait-close-up-sits-looks-closely-good-plush_438009-2722.jpg" alt="German Shepherd" width="300" height="300">
   </a>
   <a href="https://www.petfinder.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg" alt="Dog Image" width="300" height="300">
+    <img src="[https://i.pinimg.com/236x/65/61/3f/65613f9bd87cc535449fd307b2695b93.jpg](https://t3.ftcdn.net/jpg/00/87/64/84/360_F_87648445_jF98HdpaBAcxwdyXIpBF7w8I5QLUfwRE.jpg)" alt="Dog Image" width="250" height="300">
   </a>
 </div>
 <div align="center">
