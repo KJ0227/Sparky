@@ -44,5 +44,18 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
+  <p align="center">
+  🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾
+  <br>
+  🐾 &nbsp; 🐾 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🐾 &nbsp; 🐾
+  <br>
+  🐾 &nbsp; 🐾 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 🐾 &nbsp; 🐾
+  <br>
+  🐾 &nbsp; 🐾 &nbsp; &nbsp; &nbsp; &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾
+  <br>
+  🐾 &nbsp; 🐾 &nbsp; &nbsp; &nbsp; &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾
+  <br>
+  🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾 &nbsp; 🐾
+</p>
+
 </html>
-![Pie Chart](https://chart.googleapis.com/chart?cht=p&chs=300x150&chd=t:50,12.5,37.5&chl=American+Staffordshire+Terrier|Boxer|Mixed+Breed)
