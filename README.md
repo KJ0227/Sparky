@@ -44,4 +44,23 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
+  # Dog Paw Cursor
+
+![Dog Paw Cursor](dog-paw-cursor.png)
+
+Add a fun and playful dog paw cursor to your website using CSS.
+
+## Usage
+
+1. **Upload Cursor Image**: First, create or find a dog paw cursor image (e.g., `dog-paw-cursor.png`) with a transparent background. Upload it to your project.
+
+2. **Include CSS**: Add the following CSS code to your project's stylesheet (e.g., `styles.css`):
+
+```css
+/* Define a CSS class for the custom cursor */
+.custom-cursor {
+    cursor: url('path-to-dog-paw-cursor.png'), auto;
+    /* Replace 'path-to-dog-paw-cursor.png' with the actual URL or relative path to your dog paw cursor image */
+}
+
 </html>
