@@ -44,11 +44,5 @@
   <li>
     <b>10:00pm</b>🕙 - This is my bedtime.
   </li>
-       / \__
-    (    @\___
-    /         O
-   /   (_____/
-  /_____/   U
-  
-  Goodbye! 🐾
+  ![Pie Chart](https://chart.googleapis.com/chart?cht=p&chs=300x150&chd=t:50,12.5,37.5&chl=American+Staffordshire+Terrier|Boxer|Mixed+Breed)
 </html>
